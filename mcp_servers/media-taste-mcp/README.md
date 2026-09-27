@@ -323,8 +323,8 @@ The project was developed and tested with Python 3.13+.
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
-cd media-taste-mcp
+git clone https://github.com/yuvraj-9999/AIML-Assignments
+cd mcp_servers/media-taste-mcp
 ```
 
 ---
