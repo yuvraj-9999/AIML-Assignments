@@ -1,0 +1,48 @@
+[
+  {
+    "id": "inception-2010",
+    "title": "Inception",
+    "year": 2010,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "rating": 9,
+    "liked": true,
+    "notes": "Loved the concept and the layered storytelling."
+  },
+  {
+    "id": "the-prestige-2006",
+    "title": "The Prestige",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "rating": 9.5,
+    "liked": true,
+    "notes": "Great rewatch value and an excellent ending."
+  },
+  {
+    "id": "edge-of-tomorrow-2014",
+    "title": "Edge of Tomorrow",
+    "year": 2014,
+    "genres": [
+      "Sci-Fi",
+      "Action"
+    ]
+  },
+  {
+    "id": "the-terminal-2004",
+    "title": "The Terminal",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "rating": 8,
+    "liked": true,
+    "notes": "A wholesome and surprisingly emotional movie."
+  }
+]
