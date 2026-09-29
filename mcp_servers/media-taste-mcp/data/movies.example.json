@@ -7,6 +7,7 @@
       "Sci-Fi",
       "Thriller"
     ],
+    "watchedAt": "2026-09-03",
     "rating": 9,
     "liked": true,
     "notes": "Loved the concept and the layered storytelling."
@@ -20,6 +21,7 @@
       "Mystery",
       "Thriller"
     ],
+    "watchedAt": "2026-09-03",
     "rating": 9.5,
     "liked": true,
     "notes": "Great rewatch value and an excellent ending."
@@ -31,7 +33,8 @@
     "genres": [
       "Sci-Fi",
       "Action"
-    ]
+    ],
+    "watchedAt": "2026-09-03"
   },
   {
     "id": "the-terminal-2004",
@@ -41,6 +44,7 @@
       "Comedy",
       "Drama"
     ],
+    "watchedAt": "2026-09-03",
     "rating": 8,
     "liked": true,
     "notes": "A wholesome and surprisingly emotional movie."
